@@ -1,4 +1,6 @@
 # HackerEarth
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
+
 Solutions for some of the practice problems in HackerEarth.
 
 ### Note
